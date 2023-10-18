@@ -1,6 +1,6 @@
-# 欢迎来到我的GitHub主页！ 👋
+## 👋欢迎来到我的GitHub主页！
 
-我是Sakina，目前在ChatGLM CogVLM 团队，正在寻找TOP Talents加入我们～
+我是Sakina，目前在[ChatGLM CogVLM 团队](https://github.com/THUDM)，正在寻找TOP Talents加入我们😊~
 - ChatGLM 大模型算法
 - CogVLM 多模态大模型算法
 - TTS 语音 Leader
@@ -10,10 +10,10 @@
 
 欢迎交流～可以戳我详聊！！
 
-## 开源大模型
+### 开源大模型
 
 - [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
 - [GLM-130B](https://github.com/THUDM/GLM-130B)
 - [CogVLM](https://github.com/THUDM/CogVLM)
 
-如果您对我的项目或工作有任何疑问或建议，请随时与我联系。😊
+如果您对我的项目或工作有任何疑问或建议，请随时与我联系😊~
