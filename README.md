@@ -1,13 +1,14 @@
 # 欢迎来到我的GitHub主页！ 👋
 
-我是 ChatGLM 大模型算法
+我是Sakina，目前在ChatGLM CogVLM 团队，正在寻找TOP Talents加入我们～
+- ChatGLM 大模型算法
 - CogVLM 多模态大模型算法
 - TTS 语音 Leader
 - AI Infra 深度学习框架，网络，K8S
 - AIGC AGI C端产品经理
 - 前后端，底层开发
 
-欢迎交流～可以戳我详聊
+欢迎交流～可以戳我详聊！！
 
 ## 开源大模型
 
