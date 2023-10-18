@@ -16,4 +16,4 @@
 - [GLM-130B](https://github.com/THUDM/GLM-130B)
 - [CogVLM](https://github.com/THUDM/CogVLM)
 
-感谢您访问我的GitHub页面！如果您对我的项目或工作有任何疑问或建议，请随时与我联系。😊
+如果您对我的项目或工作有任何疑问或建议，请随时与我联系。😊
