@@ -1,16 +1,18 @@
-### Hi there 👋
+# 欢迎来到我的GitHub主页！ 👋
 
-<!--
-**SakinaWEI/SakinaWEI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是 ChatGLM 大模型算法
+- CogVLM 多模态大模型算法
+- TTS 语音 Leader
+- AI Infra 深度学习框架，网络，K8S
+- AIGC AGI C端产品经理
+- 前后端，底层开发
 
-Here are some ideas to get you started:
+欢迎交流～可以戳我详聊
 
-- 🔭 I’m currently working on ChatGLM CogVLM Team，seeking for top talents
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Email: shuangshuang.wei@aminer.cn; sakina_wss@163.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 开源大模型
+
+- [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
+- [GLM-130B](https://github.com/THUDM/GLM-130B)
+- [CogVLM](https://github.com/THUDM/CogVLM)
+
+感谢您访问我的GitHub页面！如果您对我的项目或工作有任何疑问或建议，请随时与我联系。😊
