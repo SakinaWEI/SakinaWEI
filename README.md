@@ -11,7 +11,7 @@
 - 前后端，底层开发
 
 欢迎交流～可以戳我详聊！！
-- Emaill: shuangshuang.wei@aminer.cn
+- Email: shuangshuang.wei@aminer.cn
 - Wechat: SakinaWEI
 
 ### 开源大模型
