@@ -10,7 +10,7 @@
 - AIGC AGI C端产品经理
 - 前后端，底层开发
 
-欢迎交流～可以戳我详聊！！
+欢迎交流～可以戳我详聊👇
 - Email: shuangshuang.wei@aminer.cn
 - Wechat: SakinaWEI
 
